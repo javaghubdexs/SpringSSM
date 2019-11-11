@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.17.jar mybatis-3.2.2.jar commons-io-2.4.jar aopa
+ lliance-1.0.jar fastjson-1.2.13.jar commons-dbcp-1.4.jar commons-pool
+ -1.6.jar aspectjweaver-1.6.9.jar commons-logging-1.2.jar mybatis-spri
+ ng-1.2.0.jar jboss-logging-3.1.0.CR2.jar validation-api-1.0.0.GA.jar 
+ commons-fileupload-1.2.2.jar spring-tx-3.2.13.RELEASE.jar spring-aop-
+ 3.2.13.RELEASE.jar spring-web-3.2.13.RELEASE.jar spring-core-3.2.13.R
+ ELEASE.jar spring-jdbc-3.2.13.RELEASE.jar spring-beans-3.2.13.RELEASE
+ .jar spring-webmvc-3.2.13.RELEASE.jar spring-context-3.2.13.RELEASE.j
+ ar mysql-connector-java-5.1.0-bin.jar hibernate-validator-4.3.2.Final
+ .jar spring-expression-3.2.13.RELEASE.jar
+Main-Class: 
+
